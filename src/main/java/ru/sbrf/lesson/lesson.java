@@ -5,7 +5,7 @@ public class lesson {
 
     public static void main(String[] args) {
 
-//d
+
         byte a = 30;
         short b = 15;
         int c = 16;
